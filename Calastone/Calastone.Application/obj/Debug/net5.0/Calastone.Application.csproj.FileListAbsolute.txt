@@ -1,0 +1,11 @@
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\bin\Debug\net5.0\Calastone.Application.deps.json
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\bin\Debug\net5.0\Calastone.Application.dll
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\bin\Debug\net5.0\ref\Calastone.Application.dll
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\bin\Debug\net5.0\Calastone.Application.pdb
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\obj\Debug\net5.0\Calastone.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\obj\Debug\net5.0\Calastone.Application.AssemblyInfoInputs.cache
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\obj\Debug\net5.0\Calastone.Application.AssemblyInfo.cs
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\obj\Debug\net5.0\Calastone.Application.csproj.CoreCompileInputs.cache
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\obj\Debug\net5.0\Calastone.Application.dll
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\obj\Debug\net5.0\ref\Calastone.Application.dll
+C:\Users\sam.khanjar\source\repos\Calastone\Calastone.Application\obj\Debug\net5.0\Calastone.Application.pdb

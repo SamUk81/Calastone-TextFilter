@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calastone.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Calastone.Application": "1.0.0"
+        },
+        "runtime": {
+          "Calastone.Infrastructure.dll": {}
+        }
+      },
+      "Calastone.Application/1.0.0": {
+        "runtime": {
+          "Calastone.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calastone.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calastone.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
