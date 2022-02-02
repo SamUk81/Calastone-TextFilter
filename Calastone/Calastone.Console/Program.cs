@@ -4,6 +4,7 @@ using Calastone.Services;
 using System.IO;
 using System;
 using Microsoft.Extensions.DependencyInjection;
+using System.Diagnostics;
 
 namespace Calastone.ConsoleApplication
 {
@@ -19,32 +20,29 @@ namespace Calastone.ConsoleApplication
 
             var output = string.Empty;
 
+            Stopwatch stopWatch = Stopwatch.StartNew();
+
             using (StreamReader sr = File.OpenText(filePath))
             {
                 var text = sr.ReadToEnd();
-
-                Console.WriteLine("Input text:");
-                Console.WriteLine("*************");
-                Console.WriteLine(text);
-                Console.WriteLine();
-
-                Console.WriteLine("Press any key to apply all 3 filters to the input text >>");
-                Console.WriteLine("***********************************************************");
-                Console.ReadKey();
-
+                
                 // Apply filter 1
                 output = _filterService.FilterOutWordsContainsVowelsInMiddle(text);
                 // Apply filter 2
                 output = _filterService.FilterOutWordsLengthLessThanThree(output);
                 // Apply filter 3
-                output = _filterService.FilterOutWordsContainsLetterT(output);                
+                output = _filterService.FilterOutWordsContainsLetterT(output);
+
+                stopWatch.Stop();
             }
-            
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Processed in { stopWatch.ElapsedMilliseconds }ms");
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
             Console.WriteLine("Output text after applying all 3 filters:");
             Console.WriteLine("*******************************************");
-            Console.WriteLine(output);
-            Console.WriteLine();
+            Console.WriteLine(outpu
         }
 
         private static void ConfigureServices()

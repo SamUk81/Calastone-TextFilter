@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\Calastone.Application.csproj",
+      "projectUniqueName": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\Calastone.Application.csproj",
       "projectName": "Calastone.Application",
-      "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\Calastone.Application.csproj",
+      "projectPath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\Calastone.Application.csproj",
       "packagesPath": "C:\\Users\\sam.khanjar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\obj\\",
+      "outputPath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sam.khanjar\\AppData\\Roaming\\NuGet\\NuGet.Config",

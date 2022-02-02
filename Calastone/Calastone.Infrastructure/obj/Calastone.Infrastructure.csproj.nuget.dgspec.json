@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj": {}
+    "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\Calastone.Application.csproj": {
+    "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\Calastone.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\Calastone.Application.csproj",
+        "projectUniqueName": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\Calastone.Application.csproj",
         "projectName": "Calastone.Application",
-        "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\Calastone.Application.csproj",
+        "projectPath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\Calastone.Application.csproj",
         "packagesPath": "C:\\Users\\sam.khanjar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\obj\\",
+        "outputPath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sam.khanjar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj": {
+    "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj",
         "projectName": "Calastone.Infrastructure",
-        "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj",
+        "projectPath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sam.khanjar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Infrastructure\\obj\\",
+        "outputPath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sam.khanjar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\Calastone.Application.csproj": {
-                "projectPath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Application\\Calastone.Application.csproj"
+              "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\Calastone.Application.csproj": {
+                "projectPath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Application\\Calastone.Application.csproj"
               }
             }
           }

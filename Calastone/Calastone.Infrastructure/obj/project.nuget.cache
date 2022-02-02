@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMnkWxWI33urZC1pfE1lC4eepbDHKekIHsW4/JtEsMGtJ0YydoBSQQnPglYYRoR2Wq/QTD2qfLXToh084GagQQ==",
+  "dgSpecHash": "V6g1Z93IPm7b6xw/inX0ldtYIDukDyM0FJXjMf/KjcgkAMjPe/3p0V8tE5d1nIdkjfGfgHfzgVsn6I8HmsAodQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj",
+  "projectFilePath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Infrastructure\\Calastone.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

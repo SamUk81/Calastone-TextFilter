@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Q+h4McNzq6OKRkMa50sepWo78LpNHwxZW+E3bAaysSRfgT/59w8m7XBqmPlqh8dPtvOv3HETQW46vmD1n7lRA==",
+  "dgSpecHash": "uRrLyUmcglUzULUIs8wz7EjGfozlG8LUMgs3KWNuMB2YuHdw5s0+F0rZ0cm6uGSxwzYaJqNHa/zmtf6Qo13L2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sam.khanjar\\source\\repos\\Calastone\\Calastone.Test\\Calastone.Test.csproj",
+  "projectFilePath": "C:\\Development\\Calastone-TextFilter\\Calastone\\Calastone.Test\\Calastone.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sam.khanjar\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\sam.khanjar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

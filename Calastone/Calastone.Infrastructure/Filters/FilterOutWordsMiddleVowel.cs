@@ -12,7 +12,7 @@ namespace Calastone.Infrastructure.Filters
         {
             var outputText = text;
 
-            // Ensure no empty strings otherwise it can mess up the count!
+            // Split the words based on whitespace. Ensure no empty strings otherwise it will mess up the count
             var words = Regex.Split(text, @"\W").Where(str => !string.IsNullOrEmpty(str)); 
 
             foreach (string word in words)
@@ -38,7 +38,7 @@ namespace Calastone.Infrastructure.Filters
                 {
                     // \b - word boundary, so it matches "in" in " in;" but not "in" in "beginning"
                     var regex = "\\b" + word + "\\b";
-                    outputText = Regex.Replace(outputText, regex, "");
+                    outputText = Regex.Replace(outputText, regex, string.Empty);
                 }
             }
 
