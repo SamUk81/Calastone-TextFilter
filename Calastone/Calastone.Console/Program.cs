@@ -42,7 +42,7 @@ namespace Calastone.ConsoleApplication
             Console.WriteLine();
             Console.WriteLine("Output text after applying all 3 filters:");
             Console.WriteLine("*******************************************");
-            Console.WriteLine(outpu
+            Console.WriteLine(output);
         }
 
         private static void ConfigureServices()
